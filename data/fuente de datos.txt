@@ -1,0 +1,3 @@
+http://centrodedescargas.cnig.es/CentroDescargas/index.jsp
+https://opendata.esri.es/datasets/crtm::gtfs-red-de-metro
+raster: https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD11A1?hl=en
